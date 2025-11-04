@@ -1,4 +1,4 @@
-# J-PIKAN: A Physics-Informed Kolmogorov-Arnold Network Based on Jacobi Orthogonal Polynomials for Solving Fluid Dynamics
+# [J-PIKAN: A Physics-Informed Kolmogorov-Arnold Network Based on Jacobi Orthogonal Polynomials for Solving Fluid Dynamics](https://www.sciencedirect.com/science/article/abs/pii/S1007570425008238)
 
 ## Citation
 
